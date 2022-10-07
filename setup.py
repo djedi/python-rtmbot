@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='rtmbot',
-    version='0.4.2',
+    version='0.4.1',
     description='A Slack bot written in python that connects via the RTM API.',
     author='Ryan Huber and Jeff Ammons',
     author_email='developers@slack.com',
